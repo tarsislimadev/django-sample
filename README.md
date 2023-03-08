@@ -1,1 +1,5 @@
-# django-demo
+# Django Demo
+
+## License
+
+[MIT](./LICENSE)
